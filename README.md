@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [spotify-android-clone](https://github.com/Dragon4926/android-spotify-clone.git)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack Developement**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dragon4926/](https://github.com/Dragon4926/)
 
