@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debopriyo Das</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">Self-taught software developer with 4+ years of hands-on experience, pursuing a Master's in Computer Science. Skilled in AI, Full-stack development.</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragon4926&show_icons=true&locale=en&layout=compact" alt="dragon4926" /></p>
 
@@ -14,9 +14,9 @@
 
 <p align="left"> <a href="https://twitter.com/dragon4926" target="blank"><img src="https://img.shields.io/twitter/follow/dragon4926?logo=twitter&style=for-the-badge" alt="dragon4926" /></a> </p>
 
-- 🔭 I’m currently working on [spotify-android-clone](https://github.com/Dragon4926/android-spotify-clone.git)
+- 🔭 I’m currently working on [sign-language-translator](https://github.com/Dragon4926/sign-gpt.git)
 
-- 🌱 I’m currently learning **MERN Stack Developement**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dragon4926/](https://github.com/Dragon4926/)
 
